@@ -62,6 +62,27 @@
       "url": "https://www.youtube.com/embed/z43rcfjXOxU",
       "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
       "id": 9
+    },
+    {
+      "titulo": "Logs no Android",
+      "descricao": "30 mil visualizações",
+      "url": "https://www.youtube.com/embed/viRW15_qUZw",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "id": 10
+    },
+    {
+      "titulo": "Configuração do Ambiente React Native no Windows",
+      "descricao": "57 mil visualizações",
+      "url": "https://www.youtube.com/embed/w59xvG0e_IU?list=PLx4x_zx8csUgyDN7j9L7gykBjxByM_etD",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "id": 11
+    },
+    {      
+      "titulo": "Novo Curso de Javascript Completo, Profissional e Moderno - Curso de Javascript Moderno - Aula 01",
+      "descricao": "16 mil visualizações",
+      "url": "https://www.youtube.com/embed/E4DBTqgxHGM?list=PLx4x_zx8csUg_AxxbVWHEyAJ6cBdsYc0T",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "id": 12
     }
   ]
 }
