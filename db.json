@@ -64,23 +64,23 @@
       "id": 9
     },
     {
-      "titulo": "Logs no Android",
-      "descricao": "30 mil visualizações",
+      "titulo": "Logs no Android: boas práticas para otimização e aplicação | #AluraMais",
+      "descricao": "2 mil visualizações",
       "url": "https://www.youtube.com/embed/viRW15_qUZw",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
       "id": 10
     },
     {
-      "titulo": "Configuração do Ambiente React Native no Windows",
-      "descricao": "57 mil visualizações",
-      "url": "https://www.youtube.com/embed/w59xvG0e_IU?list=PLx4x_zx8csUgyDN7j9L7gykBjxByM_etD",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "titulo": "Conhecendo NestJS | #AluraMais",
+      "descricao": "5 mil visualizações",
+      "url": "https://www.youtube.com/embed/YHpG6t91oW8",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
       "id": 11
     },
-    {      
-      "titulo": "Novo Curso de Javascript Completo, Profissional e Moderno - Curso de Javascript Moderno - Aula 01",
-      "descricao": "16 mil visualizações",
-      "url": "https://www.youtube.com/embed/E4DBTqgxHGM?list=PLx4x_zx8csUg_AxxbVWHEyAJ6cBdsYc0T",
+    {
+      "titulo": "Trabalhando com Classes em JavaScript",
+      "descricao": "3 mil visualizações",
+      "url": "https://www.youtube.com/embed/SWJDEy6xgDk",
       "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
       "id": 12
     }
